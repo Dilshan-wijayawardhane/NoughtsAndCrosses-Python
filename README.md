@@ -1,20 +1,53 @@
-# Noughts and Crosses (Tic-Tac-Toe) - Python
+# Noughts and Crosses (Tic-Tac-Toe) – Python
 
 ## 📌 Description
-A simple console-based Noughts and Crosses game developed using Python.
+A console-based Noughts and Crosses (Tic-Tac-Toe) game developed in Python.  
+The game allows players to play against another player or against the computer with random moves.
 
-## 🛠 Technologies
-- Python 3
+## 🛠 Technologies Used
+- Python 3.12
+- Standard Python Libraries
 
+## 📂 Project Structure
+- pycache/ (ignored)
+- leaderboard/
+- noughtsandcrossesplay_game
+- README.md
+- LICENSE
+
+  
 ## ▶ How to Run
-1. Make sure Python is installed
-2. Run:
-   python main.py
+1. Make sure Python is installed (Python 3+).
+2. Open terminal/command prompt.
+3. Navigate to the project folder.
+4. Run:
 
-## ✨ Features
-- Two-player mode
+```bash
+python noughtsandcrossesplay_game
+or you can clon this
+
+✨ Features
+
+- Player vs Player mode
+- Player vs Computer (Random AI) mode
+- Score tracking using leaderboard
 - Input validation
-- Win/Draw detection
+- Win and draw detection
 
-## 👨‍💻 Author
+📊 Leaderboard
+
+The game stores player scores in the leaderboard folder for tracking performance.
+
+🚀 Future Improvements
+
+- Smarter AI (Minimax Algorithm)
+- Graphical User Interface (GUI)
+- Online multiplayer mode
+
+👨‍💻 Author
+
 Dilshan Wijayawardhane
+
+📄 License
+
+This project is licensed under the MIT License.
