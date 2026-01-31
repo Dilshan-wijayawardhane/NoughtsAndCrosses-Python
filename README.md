@@ -23,8 +23,8 @@ The game allows players to play against another player or against the computer w
 4. Run:
 
 ```bash
-python noughtsandcrossesplay_game
-or you can clon this
+ python noughtsandcrossesplay_game
+ or you can clon this
 
 ## ✨ Features
 
