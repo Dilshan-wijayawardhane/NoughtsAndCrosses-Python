@@ -26,7 +26,7 @@ The game allows players to play against another player or against the computer w
 python noughtsandcrossesplay_game
 or you can clon this
 
-✨ Features
+## ✨ Features
 
 - Player vs Player mode
 - Player vs Computer (Random AI) mode
@@ -34,20 +34,20 @@ or you can clon this
 - Input validation
 - Win and draw detection
 
-📊 Leaderboard
+## 📊 Leaderboard
 
 The game stores player scores in the leaderboard folder for tracking performance.
 
-🚀 Future Improvements
+ ## 🚀 Future Improvements
 
 - Smarter AI (Minimax Algorithm)
 - Graphical User Interface (GUI)
 - Online multiplayer mode
 
-👨‍💻 Author
+ ## 👨‍💻 Author
 
 Dilshan Wijayawardhane
 
-📄 License
+ ## 📄 License
 
 This project is licensed under the MIT License.
