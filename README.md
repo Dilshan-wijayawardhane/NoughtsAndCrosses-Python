@@ -24,7 +24,7 @@ The game allows players to play against another player or against the computer w
 
 ```bash
  python noughtsandcrossesplay_game
- or you can clon this
+ 
 
 ## ✨ Features
 
