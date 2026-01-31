@@ -22,9 +22,8 @@ The game allows players to play against another player or against the computer w
 3. Navigate to the project folder.
 4. Run:
 
-```bash
  python noughtsandcrossesplay_game
-''' 
+
 
 ## ✨ Features
 
