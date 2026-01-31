@@ -52,7 +52,6 @@ Dilshan Wijayawardhane
 This project is licensed under the MIT License.
 
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Dilshan-wijayawardhane/NoughtsAndCrosses-Python?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Dilshan-wijayawardhane/NoughtsAndCrosses-Python?style=for-the-badge)
+![Build](https://img.shields.io/github/actions/workflow/status/username/repo/build.yml?style=for-the-badge)
+
 
