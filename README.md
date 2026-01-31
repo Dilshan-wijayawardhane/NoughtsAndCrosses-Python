@@ -52,6 +52,6 @@ Dilshan Wijayawardhane
 This project is licensed under the MIT License.
 
 
-![Build](https://img.shields.io/github/actions/workflow/status/Dilshan-wijayawardhane/repo/build.yml?style=for-the-badge)
+
 
 
